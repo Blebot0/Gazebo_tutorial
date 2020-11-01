@@ -9,3 +9,10 @@ cd ..
 
 catkin_make
 ```
+
+
+To RUN the BOT on Gazebo:
+```
+roslaunch gazebo_tutorial bot.launch 
+
+```
