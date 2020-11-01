@@ -1,5 +1,6 @@
 # Gazebo_tutorial
 
+Path to clone the repo and setting it up in the workspace
 ```
 cd ~/{catkin_workspace}/src
 
